@@ -16,7 +16,7 @@ app.register(require('@fastify/static'), {
 })
 
 app.register(cors, {
-  origin: [process.env.APP_URL as string],
+  origin: true,
 })
 
 app.register(jwt, {
