@@ -1,6 +1,5 @@
+import { SIGN_IN_URL } from '@/config/consts'
 import { User } from 'lucide-react'
-
-const SIGN_IN_URL = `https://github.com/login/oauth/authorize?client_id=${process.env.NEXT_PUBLIC_GITHUB_CLIENT_ID}`
 
 export function SignIn() {
   return (
