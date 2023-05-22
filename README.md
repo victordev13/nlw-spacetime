@@ -33,9 +33,10 @@ Layout: https://www.figma.com/community/file/1240070456276424762
 
 ### Telas:
  - Desktop
- ![Screenshot from 2023-05-20 20-36-22](https://github.com/victordev13/nlw-spacetime/assets/45896324/33db0555-80f9-4990-92d5-6317c00b1cba)
- ![Screenshot from 2023-05-20 20-39-40](https://github.com/victordev13/nlw-spacetime/assets/45896324/a528a041-fc86-4c66-afde-cd42e11c5559)
- ![Screenshot from 2023-05-20 20-43-43](https://github.com/victordev13/nlw-spacetime/assets/45896324/5bd437d5-f6e7-41c7-b887-4152597a410b)
+![Screenshot from 2023-05-20 20-36-22](https://github.com/victordev13/nlw-spacetime/assets/45896324/c6facd20-ad90-4fe0-83c5-0b17d5a1d762)
+![Screenshot from 2023-05-20 20-39-40](https://github.com/victordev13/nlw-spacetime/assets/45896324/5e7dd64f-3e6e-49f4-b4c3-c4b0e769074e)
+![Screenshot from 2023-05-20 20-43-43](https://github.com/victordev13/nlw-spacetime/assets/45896324/35fd1c95-b947-4971-99c1-e30543d73e75)
+
  - Mobile
   <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/c465d9b1-7c3c-4443-9df1-64abb5c945e8" width="320" />
   <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/b031b984-d0ae-4060-94f3-2a97898654aa" width="320" />
