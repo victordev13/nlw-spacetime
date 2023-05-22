@@ -38,6 +38,6 @@ Layout: https://www.figma.com/community/file/1240070456276424762
 ![Screenshot from 2023-05-20 20-43-43](https://github.com/victordev13/nlw-spacetime/assets/45896324/35fd1c95-b947-4971-99c1-e30543d73e75)
 
  - Mobile
-  <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/c465d9b1-7c3c-4443-9df1-64abb5c945e8" width="320" />
-  <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/b031b984-d0ae-4060-94f3-2a97898654aa" width="320" />
-  <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/094cca87-eeec-4627-8a28-31377a050c4f" width="320" />
+  <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/eb8bdfe7-f9c3-4009-b803-3c29d7a94d00" width="320" />
+  <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/35d4eddf-95d7-483e-88c4-d7d5d1c94bba" width="320" />
+  <img src="https://github.com/victordev13/nlw-spacetime/assets/45896324/04987fd1-b246-4d3c-90d1-1170e18a9737" width="320" />
